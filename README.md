@@ -1,4 +1,4 @@
-# Arbitrary Precision Calculator (APC) Using Doubly Linked List in C
+# Arbitrary Precision Calculator (APC) Using Double Linked List in C
 
 ## Overview
 
